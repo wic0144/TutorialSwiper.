@@ -28,13 +28,13 @@ React Native Swiper Component
 - Install `react-native` first
 
 ```bash
-$ npm i react-native-cli -g
+npm i react-native-cli -g
 ```
 
 - Initialization of a react-native project
 
 ```bash
-$ react-native init "Project Name"
+react-native init "Project Name"
 ```
 
 ### Installation
@@ -42,7 +42,7 @@ $ react-native init "Project Name"
 > v1.5.14
 
 ```bash
-$ npm i react-native-swiper --save
+npm i react-native-swiper --save
 ```
 
 > v1.6.0-rc
